@@ -3,11 +3,13 @@ layout: default
 title: Welcome
 ---
 
-# 👋 Hi, I’m Timothy Zero
+# 👋 Hi, I’m T.T.
 
 Welcome to my GitHub Pages homepage!
 
 - 🔧 I’m working on AI + Science
-- 🚀 Email: your@email.com
-- 📚 Projects: [See my GitHub](https://github.com/yourusername)
+- 🚀 Email: thyzyfx@qq.com
+- 📚 Projects: [See my GitHub](https://github.com/TimothyZero)
+
+
 
